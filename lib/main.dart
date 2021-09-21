@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Kaypi',
       theme: ThemeData(
-        primarySwatch: Colors.cyan,
+        primarySwatch: Colors.indigo,
       ),
       initialRoute: Routes.HOME,
       routes: appRoutes(),
